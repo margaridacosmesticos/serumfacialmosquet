@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pracasaonline.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fserumfacialmosqueta
+pracasaonline.com	TRUE	/	FALSE	1999999999	_y	9608de18-4672-4e16-8d5c-79f8427622d4
+pracasaonline.com	TRUE	/	FALSE	1999999999	_s	c738b1a1-49f0-4a2b-850d-7e451a9e3a0d
+pracasaonline.com	TRUE	/	FALSE	1999999999	_shopify_y	9608de18-4672-4e16-8d5c-79f8427622d4
+pracasaonline.com	TRUE	/	FALSE	1999999999	_shopify_s	c738b1a1-49f0-4a2b-850d-7e451a9e3a0d
+www.pracasaonline.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
